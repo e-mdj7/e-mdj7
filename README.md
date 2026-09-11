@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 👋
+I'm Engel,
+most of the projects here are love/passion/curiosity-driven
+
 
 <!--
 **e-mdj7/e-mdj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Things i kinda know how to use
-
-### Tech Stack
+#### Things i kinda know how to use (yes, kinda, no expert, but familiar and i can learn quick as i need haha)
 
 **Languages**
 
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -79,3 +81,14 @@ Here are some ideas to get you started:
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+
+## Projects
+
+| Project | What it does | Stack | Version | Status | Link |
+|---|---|---|---|---|---|
+| **Demi** | Ballet musicality & exercise trainer — 22 paying users, 100% retention (5 mo) | React, Firebase | `1.0` | 🟢 Stable | [demi-ballet.web.app](https://demi-ballet.web.app) |
+| **Ledgr** | Personal finance tracker — multi-account, MSI handling, Sankey cash-flow viz | React, IndexedDB | `0.1.4` (`0.2.0` in dev) | 🟡 Active dev | Private |
+| **Chord Ghost** | MuseScore 4 plugin — Roman-numeral analysis, cadence detection, custom canvas renderer | QML | `5.4.2` | 🟢 Actively developed | [Repo](https://github.com/e-mdj7/ChordGhost) |
+| **Construction Ops Dashboard** | Full-stack ops dashboard — cost, schedule, revenue, cash-flow, CRM | Next.js, TypeScript, PostgreSQL/Prisma, Docker | `1.7` | 🔒 Private (NDA) | — |
+| **Risk-Neutral Density (Breeden-Litzenberger)** | Recovering implied risk-neutral density from options data | Python | | 🟡 In progress | TBD |
