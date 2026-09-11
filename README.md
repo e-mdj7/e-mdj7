@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 
 | Project | What it does | Stack | Version | Status | Link |
 |---|---|---|---|---|---|
-| **Demi** | Ballet musicality & exercise trainer — 22 paying users, 100% retention (5 mo) | React, Firebase | `1.0` | 🟢 Stable | [demi-ballet.web.app](https://demi-ballet.web.app) |
-| **Ledgr** | Personal finance tracker — multi-account, MSI handling, Sankey cash-flow viz | React, IndexedDB | `0.1.4` (`0.2.0` in dev) | 🟡 Active dev | Private |
-| **Chord Ghost** | MuseScore 4 plugin — Roman-numeral analysis, cadence detection, custom canvas renderer | QML | `5.4.2` | 🟢 Actively developed | [Repo](https://github.com/e-mdj7/ChordGhost) |
-| **Construction Ops Dashboard** | Full-stack ops dashboard — cost, schedule, revenue, cash-flow, CRM | Next.js, TypeScript, PostgreSQL/Prisma, Docker | `1.7` | 🔒 Private (NDA) | — |
-| **Risk-Neutral Density (Breeden-Litzenberger)** | Recovering implied risk-neutral density from options data | Python | | 🟡 In progress | TBD |
+| **Demi** | Ballet musicality & exercise trainer — 22 paying users, 100% retention (5 mo) | React, Firebase | ![Version](https://img.shields.io/badge/version-1.0-success?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [demi-ballet.web.app](https://demi-ballet.web.app) |
+| **Ledgr** | Personal finance tracker — multi-account, MSI handling, Sankey cash-flow viz | React, IndexedDB | ![Version](https://img.shields.io/badge/version-0.1.4-blue?style=flat-square)  ![Next](https://img.shields.io/badge/next-0.2.0--dev-yellow?style=flat-square) | ![Next](https://img.shields.io/badge/active--dev-success?style=flat-square) | Private |
+| **Chord Ghost** | MuseScore 4 plugin — Roman-numeral analysis, cadence detection, custom canvas renderer | QML | ![Version](https://img.shields.io/badge/version-5.4.2-blue?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [Repo](https://github.com/e-mdj7/ChordGhost) |
+| **Construction Ops Dashboard** | Full-stack ops dashboard — cost, schedule, revenue, cash-flow, CRM | Next.js, TypeScript, PostgreSQL/Prisma, Docker | ![Version](https://img.shields.io/badge/version-1.7-lightgrey?style=flat-square) | ![NDA](https://img.shields.io/badge/private%20%2F%20NDA-lightgrey?style=flat-square) | — |
+| **Risk-Neutral Density (Breeden-Litzenberger)** | Recovering implied risk-neutral density from options data | Python | | ![Next](https://img.shields.io/badge/in--progress-yellow?style=flat-square) | TBD |
