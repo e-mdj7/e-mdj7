@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white)
+![React Flow](https://img.shields.io/badge/React_Flow-1A192B?style=flat-square&logo=xyflow&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)
 
 **Backend & Data**
 
@@ -58,6 +60,9 @@ Here are some ideas to get you started:
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![oxlint](https://img.shields.io/badge/oxlint-00F7F1?style=flat-square&logo=oxc&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Data & Visualization**
@@ -85,8 +90,9 @@ Here are some ideas to get you started:
 
 | Project | What it does | Stack | Version | Status | Link |
 |---|---|---|---|---|---|
-| **Demi** | Ballet musicality & exercise trainer — 22 paying users, 100% retention (5 mo) | React+Tailwind, JavaScript, Firebase, ESLint | ![Version](https://img.shields.io/badge/version-1.0-success?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [demi-ballet.web.app](https://demi-ballet.web.app) |
-| **Ledgr** | Personal finance tracker — multi-account, MSI handling, Sankey cash-flow viz | React+TS+Tailwind, Firebase, i18next | ![Version](https://img.shields.io/badge/version-0.1.4-blue?style=flat-square)  ![Next](https://img.shields.io/badge/next-0.2.0--dev-yellow?style=flat-square) | ![Next](https://img.shields.io/badge/active--dev-success?style=flat-square) | Private |
-| **Chord Ghost** | MuseScore 4 plugin — Roman-numeral analysis, cadence detection, custom canvas renderer | QML | ![Version](https://img.shields.io/badge/version-5.4.2-blue?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [Repo](https://github.com/e-mdj7/ChordGhost) |
-| **Construction Ops Dashboard** | Full-stack ops dashboard — cost, schedule, revenue, cash-flow, CRM | Next.js, TypeScript, PostgreSQL/Prisma, Docker, Recharts, Auth0 | ![Version](https://img.shields.io/badge/version-1.7-lightgrey?style=flat-square) | ![NDA](https://img.shields.io/badge/private%20%2F%20NDA-lightgrey?style=flat-square) | — |
+| **Demi** | Ballet musicality and exercise trainer. 22 paying users, 100% retention (5 mo) | React+Tailwind, JavaScript, Firebase, ESLint | ![Version](https://img.shields.io/badge/version-1.0-success?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [demi-ballet.web.app](https://demi-ballet.web.app) |
+| **StackForge** | Visual technology-stack builder. 350-entry catalog where compatibility is declared as data, so the diagram is derived from rules rather than drawn by hand | React+TS+Tailwind, HeroUI, React Flow, Zustand, Vite | ![Version](https://img.shields.io/badge/version-0.2.0-blue?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [stackforge.vercel.app](https://stackforge.vercel.app) · [Repo](https://github.com/e-mdj7/StackForge) |
+| **Ledgr** | Personal finance tracker. Multi-account, MSI handling, Sankey cash-flow viz | React+TS+Tailwind, Firebase, i18next | ![Version](https://img.shields.io/badge/version-0.1.4-blue?style=flat-square)  ![Next](https://img.shields.io/badge/next-0.2.0--dev-yellow?style=flat-square) | ![Next](https://img.shields.io/badge/active--dev-success?style=flat-square) | Private |
+| **Chord Ghost** | MuseScore 4 plugin. Roman-numeral analysis, cadence detection, custom canvas renderer | QML | ![Version](https://img.shields.io/badge/version-5.4.2-blue?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [Repo](https://github.com/e-mdj7/ChordGhost) |
+| **Construction Ops Dashboard** | Full-stack ops dashboard. Cost, schedule, revenue, cash-flow, CRM | Next.js, TypeScript, PostgreSQL/Prisma, Docker, Recharts, Auth0 | ![Version](https://img.shields.io/badge/version-1.7-lightgrey?style=flat-square) | ![NDA](https://img.shields.io/badge/private%20%2F%20NDA-lightgrey?style=flat-square) | Private |
 | **Risk-Neutral Density (Breeden-Litzenberger)** | Recovering implied risk-neutral density from options data | Python | | ![Next](https://img.shields.io/badge/in--progress-yellow?style=flat-square) | TBD |
