@@ -1,6 +1,10 @@
 ## Hello there 👋
-I'm Engel,
-most of the projects here are love/passion/curiosity-driven
+
+I'm Engel. Most of the projects here are love/passion/curiosity-driven.
+
+I studied Mech-Ind Management Engineering, nothing to do with programming, but boy, code is an amazing place to learn.
+
+Passionate about: art, ballet, music, AI, business and people.
 
 
 <!--
@@ -17,12 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Things i kinda know how to use (yes, kinda, no expert, but familiar and i can learn quick as i need haha)
+#### Things i kinda know how to use (yes, kinda, no expert at all, but familiar and i can learn quick as i need haha)
 
 **Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
