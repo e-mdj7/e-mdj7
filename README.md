@@ -4,6 +4,8 @@ I'm Engel. Most of the projects here are love/passion/curiosity-driven.
 
 I studied Mech-Ind Management Engineering, nothing to do with programming, but boy, code is an amazing place to learn.
 
+That degree taught me to think in systems, processes and bottlenecks, which is exactly how I approach software projects.
+
 Passionate about: art, ballet, music, AI, business and people.
 
 
