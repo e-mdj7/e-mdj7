@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Things i kinda know how to use (yes, kinda, no expert at all, but familiar and i can learn quick as i need haha)
+#### Tools I've built with
+
+I'm not a software engineer. I've built enough with these tools to know what each one does, how they fit together and where projects get stuck. That's what I bring to a team as a Technical Program Manager.
 
 **Languages**
 
