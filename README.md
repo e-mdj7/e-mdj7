@@ -101,12 +101,12 @@ I'm not a software engineer. I've built enough with these tools to know what eac
 | **Chord Ghost** | MuseScore 4 plugin. Roman-numeral analysis, cadence detection, custom canvas renderer | QML | ![Version](https://img.shields.io/badge/version-5.4.2-blue?style=flat-square) | ![Stable](https://img.shields.io/badge/Deployed-success?style=flat-square) | [Repo](https://github.com/e-mdj7/ChordGhost) |
 | **Construction Ops Dashboard** | Full-stack ops dashboard. Cost, schedule, revenue, cash-flow, CRM | Next.js, TypeScript, PostgreSQL/Prisma, Docker, Recharts, Auth0 | ![Version](https://img.shields.io/badge/version-1.7-lightgrey?style=flat-square) | ![NDA](https://img.shields.io/badge/private%20%2F%20NDA-lightgrey?style=flat-square) | Private |
 | **Risk-Neutral Density (Breeden-Litzenberger)** | Recovering implied risk-neutral density from options data | Python | | ![Next](https://img.shields.io/badge/in--progress-yellow?style=flat-square) | TBD |
-
+<!--
 ## Upcoming
 
 ![Private](https://img.shields.io/badge/private-lightgrey?style=flat-square) ![Designing](https://img.shields.io/badge/designing%20full%20stack-yellow?style=flat-square)
 
-<!--
+
 | Use | Stack |
 |---|---|
 | **Frontend** | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white) |
